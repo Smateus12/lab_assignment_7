@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/smateus12/Documents/COP_repository/lab_assigment_7/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003740, symSize: 0x40C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003740, symSize: 0x40C }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: _numswapsbubblesort, symObjAddr: 0x40C, symBinAddr: 0x100003B4C, symSize: 0x194 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: _numswapsselectionSort, symObjAddr: 0x5A0, symBinAddr: 0x100003CE0, symSize: 0x198 }
+  - { offsetInCU: 0x273, offset: 0x273, size: 0x8, addend: 0x0, symName: _swap, symObjAddr: 0x738, symBinAddr: 0x100003E78, symSize: 0x3C }
+...
